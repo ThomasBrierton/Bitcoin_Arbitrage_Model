@@ -40,6 +40,8 @@ The hypothesis is that as time progresses, the chances for arbitrage deminish. T
 
 After gathering and plotting the data, our hypothesis was correct. As time went by, arbitrage profits decreased. Eventually the profits were not enough to cover trading fees, and arbitrage potential disappeared. January 28, 2018 displayed a chance for arbitrage.
 
+![](https://github.com/ThomasBrierton/images/blob/main/Screen%20Shot%202022-01-23%20at%203.56.31%20PM.png)
+
 ---
 
 ## Contributors
