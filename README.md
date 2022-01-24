@@ -42,6 +42,9 @@ After gathering and plotting the data, our hypothesis was correct. As time went 
 
 ![](https://github.com/ThomasBrierton/images/blob/main/Screen%20Shot%202022-01-23%20at%203.56.31%20PM.png)
 
+![](https://github.com/ThomasBrierton/images/blob/main/Screen%20Shot%202022-01-23%20at%203.56.41%20PM.png)
+
+![](https://github.com/ThomasBrierton/images/blob/main/Screen%20Shot%202022-01-23%20at%203.56.51%20PM.png)
 ---
 
 ## Contributors
